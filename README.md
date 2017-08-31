@@ -1,0 +1,2 @@
+# RepoSampleData
+githubAPIを利用してデータを取得する用のサンプルリポジトリ
